@@ -27,7 +27,7 @@
 
 <h3>Prerequisites</h3>
     <ul>
-        <li>JDK 17 or higher</li>
+        <li>JDK 21 or higher</li>
         <li>Node.js (LTS version)</li>
         <li>MySQL Server</li>
         <li>Maven</li>
